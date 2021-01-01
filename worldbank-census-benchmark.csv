@@ -1,0 +1,217 @@
+Country Name,Country Code,population,region
+"Egypt, Arab Rep.",EGY,98423595,Africa
+Algeria,DZA,42228429,Africa
+Angola,AGO,30809762,Africa
+Botswana,BWA,2254126,Africa
+Burkina Faso,BFA,19751535,Africa
+Burundi,BDI,11175378,Africa
+Cameroon,CMR,25216237,Africa
+Central African Republic,CAF,4666377,Africa
+Chad,TCD,15477751,Africa
+Comoros,COM,832322,Africa
+Cote d'Ivoire,CIV,25069229,Africa
+Equatorial Guinea,GNQ,1308974,Africa
+Eswatini,SWZ,1136191,Africa
+Ethiopia,ETH,109224559,Africa
+Gabon,GAB,2119275,Africa
+"Gambia, The",GMB,2280102,Africa
+Ghana,GHA,29767108,Africa
+Guinea,GIN,12414318,Africa
+Guinea-Bissau,GNB,1874309,Africa
+Kenya,KEN,51393010,Africa
+Lesotho,LSO,2108132,Africa
+Liberia,LBR,4818977,Africa
+Libya,LBY,6678567,Africa
+Madagascar,MDG,26262368,Africa
+Malawi,MWI,18143315,Africa
+Mali,MLI,19077690,Africa
+Mauritania,MRT,4403319,Africa
+Mauritius,MUS,1265303,Africa
+Morocco,MAR,36029138,Africa
+Mozambique,MOZ,29495962,Africa
+Namibia,NAM,2448255,Africa
+Niger,NER,22442948,Africa
+Nigeria,NGA,195874740,Africa
+Rwanda,RWA,12301939,Africa
+Samoa,WSM,196130,Africa
+Sao Tome and Principe,STP,211028,Africa
+Senegal,SEN,15854360,Africa
+Seychelles,SYC,96762,Africa
+Somalia,SOM,15008154,Africa
+South Africa,ZAF,57779622,Africa
+South Sudan,SSD,10975920,Africa
+Sudan,SDN,41801533,Africa
+Tanzania,TZA,56318348,Africa
+Togo,TGO,7889094,Africa
+Tunisia,TUN,11565204,Africa
+Uganda,UGA,42723139,Africa
+Zambia,ZMB,17351822,Africa
+Zimbabwe,ZWE,14439018,Africa
+Curacao,CUW,159800,Carribean
+St. Lucia,LCA,181889,Carribean
+St. Martin (French part),MAF,37264,Carribean
+St. Vincent and the Grenadines,VCT,110210,Carribean
+Costa Rica,CRI,4999441,Central America
+El Salvador,SLV,6420744,Central America
+Guatemala,GTM,17247807,Central America
+Honduras,HND,9587522,Central America
+Nicaragua,NIC,6465513,Central America
+Panama,PAN,4176873,Central America
+Belize,BLZ,383071,Central America
+Uzbekistan,UZB,32955400,Central Asia
+Kazakhstan,KAZ,18272430,Central Asia
+Kyrgyz Republic,KGZ,6322800,Central Asia
+Tajikistan,TJK,9100837,Central Asia
+Turkmenistan,TKM,5850908,Central Asia
+Kiribati,KIR,115847,Central Pacific
+China,CHN,1392730000,East Asia
+"Hong Kong SAR, China",HKG,7451000,East Asia
+"Korea, Dem. People’s Rep.",PRK,25549819,East Asia
+"Korea, Rep.",KOR,51606633,East Asia
+"Macao SAR, China",MAC,631636,East Asia
+Mongolia,MNG,3170208,East Asia
+Barbados,BRB,286641,Eastern Europe
+Belarus,BLR,9483499,Eastern Europe
+Bulgaria,BGR,7025037,Eastern Europe
+Czech Republic,CZE,10629928,Eastern Europe
+Hungary,HUN,9775564,Eastern Europe
+Moldova,MDA,2706049,Eastern Europe
+Poland,POL,37974750,Eastern Europe
+Romania,ROU,19466145,Eastern Europe
+Russian Federation,RUS,144478050,Eastern Europe
+Slovak Republic,SVK,5446771,Eastern Europe
+Ukraine,UKR,44622516,Eastern Europe
+Azerbaijan,AZE,9939800,Eastern Europe
+Georgia,GEO,3726549,Eurasia
+Cyprus,CYP,1189265,Mediterranean
+Guam,GUM,165768,Micronesia
+Nauru,NRU,12704,Micronesia
+Northern Mariana Islands,MNP,56882,Micronesia
+Bahrain,BHR,1569439,Middle East
+"Iran, Islamic Rep.",IRN,81800269,Middle East
+Iraq,IRQ,38433600,Middle East
+Israel,ISR,8882800,Middle East
+Japan,JPN,126529100,Middle East
+Kuwait,KWT,4137309,Middle East
+Lebanon,LBN,6848925,Middle East
+Oman,OMN,4829483,Middle East
+Qatar,QAT,2781677,Middle East
+Saudi Arabia,SAU,33699947,Middle East
+Syrian Arab Republic,SYR,16906283,Middle East
+Turkey,TUR,82319724,Middle East
+United Arab Emirates,ARE,9630959,Middle East
+West Bank and Gaza,PSE,4569087,Middle East
+"Yemen, Rep.",YEM,28498687,Middle East
+Aruba,ABW,105845,North America
+Benin,BEN,11485048,North America
+Bermuda,BMU,63973,North America
+British Virgin Islands,VGB,29802,North America
+Cabo Verde,CPV,543767,North America
+Cayman Islands,CYM,64174,North America
+"Congo, Dem. Rep.",COD,84068091,Africa
+"Congo, Rep.",COG,5244363,Africa
+Cuba,CUB,11338138,North America
+Djibouti,DJI,958920,North America
+Dominica,DMA,71625,North America
+Dominican Republic,DOM,10627165,North America
+Gibraltar,GIB,33718,Southern Europe
+Greenland,GRL,56025,North America
+Haiti,HTI,11123176,North America
+Jamaica,JAM,2934855,North America
+Mexico,MEX,126190788,North America
+Puerto Rico,PRI,3195153,North America
+Sierra Leone,SLE,7650154,West Africa
+Sint Maarten (Dutch part),SXM,40654,Carribean
+Trinidad and Tobago,TTO,1389858,Carribean
+Turks and Caicos Islands,TCA,37665,West Indies
+Uruguay,URY,3449299,South America
+Virgin Islands (U.S.),VIR,106977,North America
+Canada,CAN,37057765,North America
+United States,USA,326687501,North America
+Denmark,DNK,5793636,Northern Europe
+Estonia,EST,1321977,Northern Europe
+Finland,FIN,5515525,Northern Europe
+Iceland,ISL,352721,Northern Europe
+Ireland,IRL,4867309,Northern Europe
+Latvia,LVA,1927174,Northern Europe
+Lithuania,LTU,2801543,Northern Europe
+Norway,NOR,5311916,Northern Europe
+Sweden,SWE,10175214,Northern Europe
+United Kingdom,GBR,66460344,Northern Europe
+Fiji,FJI,883483,Oceania
+"Micronesia, Fed. Sts.",FSM,112640,Oceania
+Papua New Guinea,PNG,8606316,Oceania
+Solomon Islands,SLB,652858,Oceania
+Armenia,ARM,2951776,Other
+"Bahamas, The",BHS,385640,Other
+Channel Islands,CHI,170499,Other
+Faroe Islands,FRO,48497,Other
+Isle of Man,IMN,84077,Other
+Lao PDR,LAO,7061507,Other
+Marshall Islands,MHL,58413,Pacific Ocean
+French Polynesia,PYF,277679,Polynesia
+Tonga,TON,103197,Polynesia
+Tuvalu,TUV,11508,Polynesia
+Argentina,ARG,44494502,South America
+Bolivia,BOL,11353142,South America
+Brazil,BRA,209469333,South America
+Chile,CHL,18729160,South America
+Colombia,COL,49648685,South America
+Ecuador,ECU,17084357,South America
+Guyana,GUY,779004,South America
+Paraguay,PRY,6956071,South America
+Peru,PER,31989256,South America
+Suriname,SUR,575991,South America
+"Venezuela, RB",VEN,28870195,South America
+Afghanistan,AFG,37172386,South Asia
+Bangladesh,BGD,161356039,South Asia
+Bhutan,BTN,754394,South Asia
+India,IND,1352617328,South Asia
+Maldives,MDV,515696,South Asia
+Nepal,NPL,28087871,South Asia
+Pakistan,PAK,212215030,South Asia
+Sri Lanka,LKA,21670000,South Asia
+Italy,ITA,60421760,Southern Europe
+American Samoa,ASM,55465,South Pacific
+New Caledonia,NCL,284060,South Pacific
+Vanuatu,VUT,292680,South Pacific
+Brunei Darussalam,BRN,428962,Southeast Asia
+Cambodia,KHM,16249798,Southeast Asia
+Indonesia,IDN,267663435,Southeast Asia
+Malaysia,MYS,31528585,Southeast Asia
+Myanmar,MMR,53708395,Southeast Asia
+Philippines,PHL,106651922,Southeast Asia
+Singapore,SGP,5638676,Southeast Asia
+Thailand,THA,69428524,Southeast Asia
+Vietnam,VNM,95540395,Southeast Asia
+Timor-Leste,TLS,1267972,Southeast Asia
+Albania,ALB,2866376,Southern Europe
+Andorra,AND,77006,Southern Europe
+Bosnia and Herzegovina,BIH,3323929,Southern Europe
+Croatia,HRV,4087843,Southern Europe
+Greece,GRC,10731726,Southern Europe
+Malta,MLT,484630,Southern Europe
+Montenegro,MNE,622227,Southern Europe
+North Macedonia,MKD,2082958,Southern Europe
+Portugal,PRT,10283822,Southern Europe
+San Marino,SMR,33785,Southern Europe
+Serbia,SRB,6982604,Southern Europe
+Slovenia,SVN,2073894,Southern Europe
+Spain,ESP,46796540,Southern Europe
+Kosovo,XKX,1845300,Southern Europe
+Australia,AUS,24982688,Southwestern Pacific
+New Zealand,NZL,4841000,Southwestern Pacific
+Antigua and Barbuda,ATG,96286,West Indies
+Grenada,GRD,111454,West Indies
+St. Kitts and Nevis,KNA,52441,West Indies
+Jordan,JOR,9956011,Western Asia
+Austria,AUT,8840521,Western Europe
+Belgium,BEL,11433256,Western Europe
+France,FRA,66977107,Western Europe
+Germany,DEU,82905782,Western Europe
+Liechtenstein,LIE,37910,Western Europe
+Luxembourg,LUX,607950,Western Europe
+Monaco,MCO,38682,Western Europe
+Netherlands,NLD,17231624,Western Europe
+Switzerland,CHE,8513227,Western Europe
+Palau,PLW,17907,Western Pacific

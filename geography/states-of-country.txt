@@ -1,0 +1,141 @@
+AUS,Australian Capital Territory
+AUS,New South Wales
+AUS,Northern Territory
+AUS,Queensland
+AUS,South Australia
+AUS,Tasmania
+AUS,Victoria
+AUS,Western Australia
+CAN,Alberta
+CAN,British Columbia
+CAN,Diamond Princess
+CAN,Grand Princess
+CAN,Manitoba
+CAN,New Brunswick
+CAN,Newfoundland and Labrador
+CAN,Northwest Territories
+CAN,Nova Scotia
+CAN,Nunavut
+CAN,Ontario
+CAN,Prince Edward Island
+CAN,Quebec
+CAN,Repatriated Travellers
+CAN,Saskatchewan
+CAN,Yukon
+CHN,Anhui
+CHN,Beijing
+CHN,Chongqing
+CHN,Fujian
+CHN,Gansu
+CHN,Guangdong
+CHN,Guangxi
+CHN,Guizhou
+CHN,Hainan
+CHN,Hebei
+CHN,Heilongjiang
+CHN,Henan
+CHN,Hong Kong
+CHN,Hubei
+CHN,Hunan
+CHN,Inner Mongolia
+CHN,Jiangsu
+CHN,Jiangxi
+CHN,Jilin
+CHN,Liaoning
+CHN,Macau
+CHN,Ningxia
+CHN,Qinghai
+CHN,Shaanxi
+CHN,Shandong
+CHN,Shanghai
+CHN,Shanxi
+CHN,Sichuan
+CHN,Tianjin
+CHN,Tibet
+CHN,Xinjiang
+CHN,Yunnan
+CHN,Zhejiang
+DNK,Faroe Islands
+DNK,Greenland
+FRA,French Guiana
+FRA,French Polynesia
+FRA,Guadeloupe
+FRA,Martinique
+FRA,Mayotte
+FRA,New Caledonia
+FRA,Reunion
+FRA,Saint Barthelemy
+FRA,Saint Pierre and Miquelon
+FRA,St Martin
+NLD,Aruba
+NLD,Bonaire, Sint Eustatius and Saba
+NLD,Curacao
+NLD,Sint Maarten
+GBR,Anguilla
+GBR,Bermuda
+GBR,British Virgin Islands
+GBR,Cayman Islands
+GBR,Channel Islands
+GBR,Falkland Islands (Malvinas)
+GBR,Gibraltar
+GBR,Isle of Man
+GBR,Montserrat
+GBR,Turks and Caicos Islands
+USA,Alabama
+USA,Alaska
+USA,American Samoa
+USA,Arizona
+USA,Arkansas
+USA,California
+USA,Colorado
+USA,Connecticut
+USA,Delaware
+USA,Diamond Princess
+USA,District of Columbia
+USA,Florida
+USA,Georgia
+USA,Grand Princess
+USA,Guam
+USA,Hawaii
+USA,Idaho
+USA,Illinois
+USA,Indiana
+USA,Iowa
+USA,Kansas
+USA,Kentucky
+USA,Louisiana
+USA,Maine
+USA,Maryland
+USA,Massachusetts
+USA,Michigan
+USA,Minnesota
+USA,Mississippi
+USA,Missouri
+USA,Montana
+USA,Nebraska
+USA,Nevada
+USA,New Hampshire
+USA,New Jersey
+USA,New Mexico
+USA,New York
+USA,North Carolina
+USA,North Dakota
+USA,Northern Mariana Islands
+USA,Ohio
+USA,Oklahoma
+USA,Oregon
+USA,Pennsylvania
+USA,Puerto Rico
+USA,Rhode Island
+USA,South Carolina
+USA,South Dakota
+USA,Tennessee
+USA,Texas
+USA,Utah
+USA,Vermont
+USA,Virgin Islands
+USA,Virginia
+USA,Washington
+USA,West Virginia
+USA,Wisconsin
+USA,Wyoming
